@@ -1,0 +1,5 @@
+3
+techer1_name\ teacher1_sname\ 27 man Information Technology\
+techer2_name\ teacher2_sname\ 35 woman Philosophy\
+techer3_name\ teacher3_sname\ 30 woman Information Technology\
+
